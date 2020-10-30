@@ -2,4 +2,4 @@ Texto de prueba
 
 Esta es la primera modificacion que hago despues de darle el primer commit.
 
-hoy hablaremos de su vida.
+hoy hablaremos de su vida y obra maestra.
